@@ -4,7 +4,7 @@
 
 <img src="https://github.com/vartikavr/vartikavr/blob/master/Banner.png" alt="Vartika Rana">
 
-<h3> 👨🏻‍💻 About Me </h3>
+*** 👨🏻‍💻 About Me ***
 - 😄 Pronouns: She/Her/Hers
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at Banasthali Vidyapith, Rajasthan.
 - 🌱 I’m currently exploring Blockchain and Full-stack Web Development.
