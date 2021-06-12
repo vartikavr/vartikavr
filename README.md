@@ -1,10 +1,10 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://github.com/vartikavr/vartikavr/blob/master/Hi.gif" width="30px"></h2>
+<h2> <b>Greetings!</b> <img src="https://github.com/vartikavr/vartikavr/blob/master/Hi.gif" width="30px"></h2>
 </div>
 
 <img src="https://github.com/vartikavr/vartikavr/blob/master/Banner.png" alt="Vartika Rana">
 
-***About Me!***
+<h3> 👨🏻‍💻 About Me </h3>
 - 😄 Pronouns: She/Her/Hers
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at Banasthali Vidyapith, Rajasthan.
 - 🌱 I’m currently exploring Blockchain and Full-stack Web Development.
