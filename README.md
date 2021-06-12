@@ -1,6 +1,8 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://github.com/vartikavr/vartikavr/blob/master/Hi.gif" width="30px"></h2>
 </div>
+
+***About Me!***
 - 🚀 Hi, I’m Vartika Rana!
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at Banasthali Vidyapith, Rajasthan.
 - 🌱 I’m currently exploring Blockchain and Full-stack Web Development.
