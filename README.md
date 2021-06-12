@@ -2,7 +2,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://github.com/vartikavr/vartikavr/blob/master/Hi.gif" width="30px"></h2>
 </div>
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="Vartika Rana">
+<img src="https://github.com/vartikavr/vartikavr/blob/master/Banner.png" alt="Vartika Rana">
 
 ***About Me!***
 - 😄 Pronouns: She/Her/Hers
