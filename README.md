@@ -6,12 +6,12 @@
 
 👨🏽‍💻 ***About Me***
 - 😄 Pronouns: She/Her
-- 💻 I’m a CSE Undergrad student at Banasthali Vidyapith, Rajasthan.
-- 🌱 I’m currently exploring Blockchain and Full-stack Web Development.
+- 💻 I’m a CSE undergrad student at Banasthali Vidyapith, Rajasthan.
+- 🌱 I’m currently exploring Full-stack web development and Blockchain.
 - 🎯 I believe one should never stop learning and try to follow the same.
-- ⚡ I love to sing and listen to music.
+- ⚡ Fun fact: I love to sing and listen to music.
 
 ### Contact me 📝 
-<a href="https://www.linkedin.com/in/vartika-rana-838225192/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/vartika-rana-838225192/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.linkedin.com/in/vartika-rana-838225192/">
-<a href="https://www.instagram.com/vartika_vr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/vartika_vr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
