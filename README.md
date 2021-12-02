@@ -6,7 +6,7 @@
 
 ## About Me 👩‍💻
 - 😄 Pronouns: She/Her
-- 💻 I’m a CSE undergrad student at Banasthali Vidyapith, Rajasthan.
+- 💻 I’m a CSE undergrad student at Banasthali Vidyapith, Rajasthan, India.
 - 🌱 I’m currently exploring Full-stack web development and Ethereum.
 - 🎯 I believe one should never stop learning and I try to follow the same.
 - ⚡ Fun fact: I love to sing and listen to music.
